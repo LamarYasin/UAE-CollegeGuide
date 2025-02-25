@@ -2,7 +2,7 @@
 name = "repl-nix-workspace"
 version = "0.1.0"
 description = "Add your description here"
-authors = ["Lamar Yasin=lamaryassin2010@gmail.com"]
+authors = ["Lamar Yasin=<lamaryassin2010@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
